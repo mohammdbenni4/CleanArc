@@ -1,0 +1,11 @@
+C:\Users\AL-FARABI\Desktop\projects C#\CleanArc\Domian\bin\Debug\net7.0\Domian.deps.json
+C:\Users\AL-FARABI\Desktop\projects C#\CleanArc\Domian\bin\Debug\net7.0\Domian.dll
+C:\Users\AL-FARABI\Desktop\projects C#\CleanArc\Domian\bin\Debug\net7.0\Domian.pdb
+C:\Users\AL-FARABI\Desktop\projects C#\CleanArc\Domian\obj\Debug\net7.0\Domian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL-FARABI\Desktop\projects C#\CleanArc\Domian\obj\Debug\net7.0\Domian.AssemblyInfoInputs.cache
+C:\Users\AL-FARABI\Desktop\projects C#\CleanArc\Domian\obj\Debug\net7.0\Domian.AssemblyInfo.cs
+C:\Users\AL-FARABI\Desktop\projects C#\CleanArc\Domian\obj\Debug\net7.0\Domian.csproj.CoreCompileInputs.cache
+C:\Users\AL-FARABI\Desktop\projects C#\CleanArc\Domian\obj\Debug\net7.0\Domian.dll
+C:\Users\AL-FARABI\Desktop\projects C#\CleanArc\Domian\obj\Debug\net7.0\refint\Domian.dll
+C:\Users\AL-FARABI\Desktop\projects C#\CleanArc\Domian\obj\Debug\net7.0\Domian.pdb
+C:\Users\AL-FARABI\Desktop\projects C#\CleanArc\Domian\obj\Debug\net7.0\ref\Domian.dll
